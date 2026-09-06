@@ -1,1 +1,0 @@
-import{L as e,N as t,g as n,y as r}from"./vue.runtime.esm-bundler-CP9fp17o.js";import{a as i}from"./index-FLnicuC0.js";var a={},o={class:`min-h-screen bg-background text-foreground`};function s(i,a){let s=e(`router-view`);return t(),n(`div`,o,[r(s)])}var c=i(a,[[`render`,s]]);export{c as default};
