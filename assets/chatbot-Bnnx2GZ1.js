@@ -1,1 +1,0 @@
-var e=`/govai-demo/assets/chatbot-BUU784v3.png`;export{e as t};

@@ -1,0 +1,1 @@
+var e=`/chatbot_demo/assets/chatbot-BUU784v3.png`;export{e as t};

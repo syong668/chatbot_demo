@@ -1,0 +1,1 @@
+var e=`/chatbot_demo/assets/sidebar-item-5-hover-T4bPKy2g.svg`;export{e as t};
