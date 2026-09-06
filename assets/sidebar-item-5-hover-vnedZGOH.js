@@ -1,0 +1,1 @@
+var e=`/govai-demo/assets/sidebar-item-5-hover-T4bPKy2g.svg`;export{e as t};
